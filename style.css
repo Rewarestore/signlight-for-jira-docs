@@ -89,7 +89,7 @@ h2 { font-size: clamp(38px, 4.2vw, 58px); font-weight: 770; }
 .lifecycle-card.featured { transform: translateY(-12px); border-color: #406fc7; background: #192947; }
 .lifecycle-card h3 { margin: 14px 0 7px; font-size: 21px; letter-spacing: -.025em; }
 .lifecycle-card > p { min-height: 43px; margin: 0 0 22px; color: #aeb9cc; font-size: 13px; line-height: 1.55; }
-.lifecycle-card img { display: block; width: calc(100% + 48px); max-width: none; margin-left: -24px; aspect-ratio: 1.72; object-fit: cover; object-position: center 38%; border-top: 1px solid #34405a; }
+.lifecycle-card img { display: block; width: calc(100% + 48px); height: auto; max-width: none; margin-left: -24px; border-top: 1px solid #34405a; }
 .card-kicker { display: flex; align-items: center; gap: 8px; color: #c6cede; text-transform: uppercase; letter-spacing: .1em; font-size: 11px; font-weight: 760; }
 
 .features { padding: 130px 0; }
